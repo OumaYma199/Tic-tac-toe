@@ -174,15 +174,6 @@ public:
         }
     }
 };
-/*************  ✨ Codeium Command ⭐  *************/
-/**
- * @brief Entry point for the Tic Tac Toe game.
- *
- * Creates a TicTacToe object and calls its playGame() method to start the game.
- *
- * @return 0 on successful exit.
- */
-/******  a98f145f-e4ff-4adf-89dd-81b867c77389  *******/
 int main() {
     TicTacToe game;
     game.playGame();
